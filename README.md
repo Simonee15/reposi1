@@ -4,6 +4,9 @@ This project is made by Perez, Freyr Simone S. Perez and Parafina, Lee Anne Mars
 We are partners for this activity.
 This document is Perez's. Lee Anne has her own document.
 
+
+This is a new Git
+
 What is Git?
 
 - Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
